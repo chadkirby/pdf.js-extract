@@ -21,6 +21,8 @@
     "url": "https://github.com/ffalt/pdf.js-extract"
   },
   "dependencies": {
+    "eslint": "^4.11.0",
+    "eslint-plugin-turbopatent": "^1.0.1"
   },
   "engines": {
     "node": ">= 0.8.15"
